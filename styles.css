@@ -1,0 +1,121 @@
+.mainhead {
+  font-family: "Dancing Script", cursive;
+  color: blue;
+  font-size: 25px;
+}
+.abc {
+  background-color: lightskyblue;
+  height: 30px;
+  padding-left: 350px;
+}
+.nav {
+  position: relative;
+  top: 6px;
+  left: 900px;
+  display: inline;
+}
+
+li {
+  display: inline-block;
+
+  padding-left: 5px;
+}
+
+.aboutme {
+  display: flex;
+}
+#pic {
+  width: 300px;
+  height: 350px;
+}
+
+.name {
+  font-size: 40px;
+  position: relative;
+  left: 190px;
+  color: blue;
+  display: inline;
+  top: 60px;
+}
+
+.nm {
+  float: left;
+  display: block;
+  flex-direction: column;
+}
+
+.about {
+  position: relative;
+  text-align: center;
+  padding-left: 80px;
+  top: 80px;
+  padding-right: 80px;
+
+  font-size: larger;
+  color: #5dade2;
+}
+footer {
+  background-color: #2485c4;
+  height: 100px;
+  padding-top: 50px;
+  padding-left: 590px;
+}
+.head_abtme {
+  color: #d70630;
+  position: relative;
+  left: 60px;
+}
+.detls_abtme {
+  color: rgb(97, 97, 211);
+  position: relative;
+  left: 80px;
+}
+
+.contacts {
+  position: relative;
+  left: 250px;
+  top: 80px;
+}
+.prj1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  border: 2px;
+  border-style: solid;
+  padding: 4px;
+  border-color: #5dade2;
+  position: relative;
+}
+
+.desc {
+  font-size: 20px;
+  padding-left: 9px;
+  position: relative;
+  top: 2px;
+}
+b {
+  font-size: 25px;
+  padding: 15px 0px 0px 15px;
+}
+.zmt_txt {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  height: 225px;
+}
+.a_abtme {
+  position: relative;
+  top: 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.linking:hover {
+  background-color: #4169e1;
+  color: aliceblue;
+}
+
+#shareicons {
+  padding-left: 120px;
+}
